@@ -41,6 +41,12 @@ function genSidebarConfig (title) {
                 ['/doc/http/3','Https介绍'],
                 ['/doc/http/4','Web的攻击技术'],
             ]
+        },{
+            title: 'Node 专题',
+            collapsable: false,
+            children: [
+                ['/doc/node/1','用node撸一个前端自动化发布工具']
+            ]
         }
     ]
 };
