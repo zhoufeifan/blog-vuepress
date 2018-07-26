@@ -15,6 +15,7 @@ function genSidebarConfig (title) {
                 ['/doc/js/2','js作用域'],
                 ['/doc/js/3','js 继承的四种方式'],
                 ['/doc/js/4','事件'],
+                ['/doc/js/5','js 常用小技巧'],
             ]
         },{
             title: 'CSS 专题',

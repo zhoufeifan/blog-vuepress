@@ -1,2 +1,6 @@
-# Hello World 
-首页还不知道要放什么诶。。。。。
+### 常用命令
+```
+- npm run dev
+- npm run build
+- deploy.sh
+```
