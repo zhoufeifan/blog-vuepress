@@ -8,3 +8,4 @@ public/
 # misc
 .idea
 .DS_Store
+.history
