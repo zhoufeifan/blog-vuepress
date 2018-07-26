@@ -2,5 +2,5 @@
 ```
 - npm run dev
 - npm run build
-- deploy.sh
+- ./deploy.sh
 ```
