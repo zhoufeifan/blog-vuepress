@@ -55,7 +55,7 @@ function genSidebarConfig (title) {
 
 module.exports = {
     title: '周非凡个人博客',
-    description: 'Just playing around',
+    description: 'Vue 驱动的静态网站生成器',
     serviceWorker: true,
     themeConfig: {
         navbar: false,
