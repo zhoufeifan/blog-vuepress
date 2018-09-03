@@ -1,6 +1,6 @@
 # 博客首页
 ![image](http://www.williamlong.info/upload/4432_1.jpg)  
-真的不知道放什么~ ~
+欢迎来的我的个人博客首页，真的不知道该放什么~ ~
 ### 构建命令
 ``` 
 npm run dev 调试模式
