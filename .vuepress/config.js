@@ -48,6 +48,12 @@ function genSidebarConfig (title) {
             children: [
                 ['/doc/node/1','用node撸一个前端自动化发布工具']
             ]
+        },{
+            title: '项目总结',
+            collapsable: false,
+            children: [
+                ['/doc/project/1','H5项目总结']
+            ]
         }
     ]
 };
