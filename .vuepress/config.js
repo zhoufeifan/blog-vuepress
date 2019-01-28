@@ -1,5 +1,11 @@
 function genSidebarConfig (title) {
     return [{
+        title: 'CSS 专题',
+        collapsable: false,
+        children: [
+            ['/doc/css/1','清除浮动']
+        ]
+    },{
         title: 'Html 专题',
         collapsable: false,
         children: [
@@ -11,17 +17,16 @@ function genSidebarConfig (title) {
             title: 'JS 专题',
             collapsable: false,
             children: [
-                ['/doc/js/1','网页与浏览器'],
-                ['/doc/js/2','js作用域'],
-                ['/doc/js/3','js 继承的四种方式'],
-                ['/doc/js/4','事件'],
-                ['/doc/js/5','js 常用小技巧'],
-            ]
-        },{
-            title: 'CSS 专题',
-            collapsable: false,
-            children: [
-                ['/doc/css/1','清除浮动']
+                ['/doc/js/1-1','堆栈调用（上篇）'],
+                ['/doc/js/1-2','堆栈调用（下篇）'],
+                ['/doc/js/2','作用域与闭包'],
+                ['/doc/js/3','this绑定解析'],
+                ['/doc/js/4-1','call、apply原理与使用场景'],
+                ['/doc/js/4-2','bind 的原理与使用场景'],
+                ['/doc/js/5-1','浅拷贝概念以及实现原理'],
+                ['/doc/js/5-2','深拷贝概念以及实现原理'],
+                ['/doc/js/6-1','原型与继承之基本概念'],
+                ['/doc/js/6-2','原型与继承之（6种继承方案）'],
             ]
         },{
             title: '工具函数 专题',
