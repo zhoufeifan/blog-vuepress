@@ -48,6 +48,12 @@ function genSidebarConfig (title) {
                 ['/doc/http/4','Web的攻击技术'],
             ]
         },{
+            title: 'Vue 专题',
+            collapsable: false,
+            children: [
+                ['/doc/vue/1','Vue 双向绑定的原理']
+            ]
+        },{
             title: 'Node 专题',
             collapsable: false,
             children: [
