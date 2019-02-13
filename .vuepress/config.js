@@ -3,7 +3,8 @@ function genSidebarConfig (title) {
         title: 'CSS 专题',
         collapsable: false,
         children: [
-            ['/doc/css/1','清除浮动']
+            ['/doc/css/1','css 常用知识点'],
+            ['/doc/css/2','清除浮动']
         ]
     },{
         title: 'Html 专题',
