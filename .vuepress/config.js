@@ -7,7 +7,7 @@ function genSidebarConfig (title) {
             ['/doc/css/2','清除浮动']
         ]
     },{
-        title: 'Html 专题',
+        title: 'HTML 专题',
         collapsable: false,
         children: [
                 ['/doc/html/1','浏览器解析流程'],
@@ -66,7 +66,8 @@ function genSidebarConfig (title) {
             collapsable: false,
             children: [
                 ['/doc/project/1','H5项目总结'],
-                ['/doc/project/2','首页优化项目总结']
+                ['/doc/project/2','首页优化项目总结'],
+                ['/doc/project/3','vue 输入限制']
             ]
         }
     ]
