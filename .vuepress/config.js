@@ -28,6 +28,7 @@ function genSidebarConfig (title) {
                 ['/doc/js/5-2','深拷贝概念以及实现原理'],
                 ['/doc/js/6-1','原型与继承之基本概念'],
                 ['/doc/js/6-2','原型与继承之（6种继承方案）'],
+                ['/doc/js/7','事件机制'],
             ]
         },{
             title: '工具函数 专题',
@@ -64,7 +65,8 @@ function genSidebarConfig (title) {
             title: '项目总结',
             collapsable: false,
             children: [
-                ['/doc/project/1','H5项目总结']
+                ['/doc/project/1','H5项目总结'],
+                ['/doc/project/2','首页优化项目总结']
             ]
         }
     ]
