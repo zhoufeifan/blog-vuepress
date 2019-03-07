@@ -53,7 +53,8 @@ function genSidebarConfig (title) {
             title: 'Vue 专题',
             collapsable: false,
             children: [
-                ['/doc/vue/1','Vue 双向绑定的原理']
+                ['/doc/vue/1','Vue 双向绑定的原理'],
+                ['/doc/vue/2','Vue 踩坑总结']
             ]
         },{
             title: 'Node 专题',
