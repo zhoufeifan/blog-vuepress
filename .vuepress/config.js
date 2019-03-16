@@ -54,7 +54,9 @@ function genSidebarConfig (title) {
             collapsable: false,
             children: [
                 ['/doc/vue/1','Vue 双向绑定的原理'],
-                ['/doc/vue/2','Vue 踩坑总结']
+                ['/doc/vue/2','Vue 踩坑总结'],
+                ['/doc/vue/3','Vue 生命周期详解'],
+                ['/doc/vue/4','Vuex 基本用法']
             ]
         },{
             title: 'Node 专题',
