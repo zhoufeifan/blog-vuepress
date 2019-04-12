@@ -48,6 +48,7 @@ function genSidebarConfig (title) {
                 ['/doc/http/2','Http首部字段'],
                 ['/doc/http/3','Https介绍'],
                 ['/doc/http/4','Web的攻击技术'],
+                ['/doc/http/5','Http 发展历史'],
             ]
         },{
             title: 'Vue 专题',
