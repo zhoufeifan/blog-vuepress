@@ -5,6 +5,7 @@ function genSidebarConfig (title) {
         children: [
             ['/doc/css/1','css 常用知识点'],
             ['/doc/css/2','清除浮动'],
+            ['/doc/css/3','三大经典问题'],
         ]
     },{
         title: 'HTML 专题',
