@@ -5,6 +5,7 @@ function genSidebarConfig (title) {
         children: [
             ['/doc/css/1','css 常用知识点'],
             ['/doc/css/2','清除浮动'],
+            ['/doc/css/3','三大经典问题'],
         ]
     },{
         title: 'HTML 专题',
@@ -48,6 +49,7 @@ function genSidebarConfig (title) {
                 ['/doc/http/2','Http首部字段'],
                 ['/doc/http/3','Https介绍'],
                 ['/doc/http/4','Web的攻击技术'],
+                ['/doc/http/5','Http 发展历史'],
             ]
         },{
             title: 'Vue 专题',
