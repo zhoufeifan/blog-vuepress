@@ -70,7 +70,8 @@ function genSidebarConfig (title) {
             children: [
                 ['/doc/project/1','H5项目总结'],
                 ['/doc/project/2','首页优化项目总结'],
-                ['/doc/project/3','vue 输入限制']
+                ['/doc/project/3','vue 输入限制'],
+                ['/doc/project/4','搜车库项目总结']
             ]
         }
     ]
