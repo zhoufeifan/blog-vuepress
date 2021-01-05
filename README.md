@@ -1,4 +1,4 @@
-![image](http://zff-img.lshwn.cn/4432_1.jpg)  
+![image](http://image.zhoufeifan.tech/4432_1.jpg)  
 
 
 # 知识点目录
